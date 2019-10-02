@@ -1,5 +1,5 @@
 package Lesson2;
-
+// тест
 import java.util.Arrays;
 
 class ArraySort{
